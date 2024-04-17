@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: brown;
+}
+#conteiner {
+    width: 1000px;
+    position: relative;
+}
+h2 {
+    text-align: center;
+}
+img {
+    width: 100px;
+    float: right;
+    margin-top: 10%;
+}
